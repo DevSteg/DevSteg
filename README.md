@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align=center>Hey,👋 </h1>
+<h1 align=center>I'm James</h1>
+
+<hr/>
+
+<h3 align=center>Software Developer</h3>
+
+![Icon Stack](img\stack-white.png)
 
 <!--
 **DevSteg/DevSteg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
