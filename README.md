@@ -5,7 +5,7 @@
 
 <h3 align=center>Software Developer</h3>
 
-![Icon Stack](img\stack-white.png)
+![Icon Stack](img\icons.jpg)
 
 <!--
 **DevSteg/DevSteg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
