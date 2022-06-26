@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=300/>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=200/>
 </div>
 <p>
   Welcome to my page.<br/>I'm James, a junior software developer from the UK <img src="https://img.icons8.com/doodle/48/000000/great-britain.png" width="20"/> currently on the search for my first role in Tech.<br/>
