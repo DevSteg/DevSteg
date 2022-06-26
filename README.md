@@ -49,6 +49,6 @@
 
 ### Get in touch
 
-[![Github](https://img.shields.io/badge/GitHub-0072b1?style=flat&logo=github&logoColor=white)](https://github.com/DevSteg)
+[![Github](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/DevSteg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-stephens-75b49085/)
-[![Twitter](https://img.shields.io/badge/Twitter-0072b1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/DevSteg)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/DevSteg)
