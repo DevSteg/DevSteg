@@ -6,7 +6,6 @@
 <h3 align=center>Jnr Software Developer</h3>
 <hr/>
 
-<<<<<<< HEAD
 <h3>Things I code with</h3>
 <div>
   <img src="https://img.shields.io/badge/React-61DBFB?style=flat&logo=react&logoColor=white"/>
@@ -39,23 +38,3 @@
 <div align=right>
 <a href="https://app.daily.dev/DevSteg"><img src="https://github.com/DevSteg/DevSteg/blob/main/devcard.svg" width="400" alt="James Stephens's Dev Card"/></a>
 </div>
-=======
-<h3 align=center>Software Developer</h3>
-
-![Icon Stack](img/icons.jpg)
-
-<!--
-**DevSteg/DevSteg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 0021ed0c58281301dbc369ee0dd4a04fc6eddf41
