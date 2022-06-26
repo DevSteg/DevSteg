@@ -1,9 +1,12 @@
-<h1>👋 Hi </h1>
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" align="center" width=400/>
+
 <p>
   Welcome to my page.<br/>I'm James, a junior software developer from the UK <img src="https://img.icons8.com/doodle/48/000000/great-britain.png" width="20"/> currently on the search for my first role in Tech.<br/>
 </p>
-
-<h3 align=center>Jnr Software Developer</h3>
+<div align=center>
+  <h3>Jnr Software Developer</h3>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
+</div>
 <hr/>
 
 <h3>Things I code with</h3>
@@ -25,16 +28,11 @@
   <img src="https://img.shields.io/badge/Heroku-6762A6?style=flat&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-20c6b7?style=flat&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Chrome-1DA462?style=flat&logo=googlechrome&logoColor=white">
-  <div>
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" align=right />
 </div>
 <br/>
-<p>
-  🔭 I’m currently working on strengthening my backend knowledge <br/>
-  🌱 I’m currently learning NodeJs <br/>
+ <a href="https://app.daily.dev/DevSteg"><img src="https://github.com/DevSteg/DevSteg/blob/main/devcard.svg" width="200" align=right alt="James Stephens's Dev Card"/></a>
+<p align=left>
+  🔭 I’m currently working on strengthening my backend knowledge with Node<br/>
   📫 How to reach me: devstegg@gmail.com<br/>
   ⚡ Fun fact: ...
 </p>
-<div align=right>
-<a href="https://app.daily.dev/DevSteg"><img src="https://github.com/DevSteg/DevSteg/blob/main/devcard.svg" width="400" alt="James Stephens's Dev Card"/></a>
-</div>
