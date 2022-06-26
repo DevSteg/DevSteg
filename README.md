@@ -1,12 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200" alt="Hello World"/>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" alt="Let's code"/>
 </div>
 <p>
   Welcome to my page.<br/>I'm James, a junior software developer from the UK <img src="https://img.icons8.com/doodle/48/000000/great-britain.png" width="20"/> currently on the search for my first role in Tech.<br/>
 </p>
-<div align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" alt="Let's code"/>
-</div>
 <hr/>
 
 <h3>Things I code with</h3>
