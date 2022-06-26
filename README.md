@@ -30,7 +30,7 @@
   <img alt="Chrome" src="https://img.shields.io/badge/Chrome-1DA462?style=flat&logo=googlechrome&logoColor=white">
 </div>
 <br/>
- <a href="https://app.daily.dev/DevSteg"><img src="https://github.com/DevSteg/DevSteg/blob/main/devcard.svg" width="200" align=right alt="James Stephens's Dev Card"/></a>
+ <a href="https://app.daily.dev/DevSteg"><img src="https://github.com/DevSteg/DevSteg/blob/main/devcard.svg" width="275" align=right alt="James Stephens's Dev Card"/></a>
 <p align="left">
   🔭 I’m currently working on strengthening my backend knowledge with Node<br/>
   📫 How to reach me: devstegg@gmail.com<br/>
